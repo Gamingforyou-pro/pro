@@ -1,4 +1,5 @@
 #Hangman Game
+#Author Atharva
 import random
 import time
 import string
