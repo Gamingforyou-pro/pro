@@ -1,5 +1,5 @@
 #Hangman Game
-#Author Atharva
+#Author Atharva Aka Gamingforyou
 import random
 import time
 import string
